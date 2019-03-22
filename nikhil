@@ -1,0 +1,12 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+  clrscr();
+  int a,x;
+  cout<<"\nEnter the value of a\n";
+  cin>>a;
+  x=a*a;
+  cout<<"The value of x is"<<x;
+  getch();
+  }
